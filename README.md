@@ -43,7 +43,7 @@ cd docker-media-server
    PUID=1000
    PGID=1000
    TZ=Etc/UTC
-   JELLYFIN_PublishedServerUrl=192.168.1.5
+   JELLYFIN_PublishedServerUrl=192.168.1.50
    ```
 
 ### Start the Containers
